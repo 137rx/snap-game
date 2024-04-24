@@ -27,6 +27,8 @@ yarn create next-app --example with-jest with-jest-app
 ```bash
 pnpm create next-app --example with-jest with-jest-app
 ```
+## Running Project on local
+npm run dev
 
 ## Running Tests
 
